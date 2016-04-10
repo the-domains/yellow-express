@@ -1,7 +1,7 @@
 name: yellow express
 favicon: null
 layout_spectrum: 0.9558286385145038
-typography_spectrum: 0.7051919491495937
+typography_spectrum: 0.49561
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#ffffff'
+    - '#010101'
+    - '#cacaca'
+    - '#6c6c6c'
+    - '#fafa5e'
   brandStrength: 0.7473647776059806
-  lightness: 0.09894456621259451
-  saturation: 0.057543681701645255
-  rhythmicContrast: 0.4895380660891533
+  lightness: 0.6875
+  saturation: 0.0625
+  rhythmicContrast: 0.5
 purpose: []
