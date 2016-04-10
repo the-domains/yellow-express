@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: Yellow Express is now one of the largest Taxi Truck companies servicing the Melbourne Metropolitan area together with direct services into Victorian Country.
-datePublished: '2016-04-10T02:03:06.296Z'
-dateModified: '2016-04-10T02:02:45.950Z'
+description: Over 20 years experience and nearly 200 vehicles ensures Yellow Express has the capacity and the expertise to provide your organisation with the most innovative and efficient solutions to your Victorian distribution requirements.
+datePublished: '2016-04-10T02:36:52.606Z'
+dateModified: '2016-04-10T02:04:10.030Z'
 title: Welcome to Yellow Express
 author: []
 sourcePath: _posts/2016-04-10-welcome-to-yellow-express.md
